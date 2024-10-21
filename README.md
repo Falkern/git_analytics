@@ -19,7 +19,7 @@ This is a simple command-line interface (CLI) tool to fetch and display analytic
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Falkern/gitcli.git
+   git clone https://github.com/Falkern/git_analytics.git
    cd github_cli
    ```
 
