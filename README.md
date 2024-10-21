@@ -20,7 +20,7 @@ This is a simple command-line interface (CLI) tool to fetch and display analytic
 
    ```sh
    git clone https://github.com/Falkern/git_analytics.git
-   cd github_cli
+   cd git_analytics
    ```
 
 2. Install the required gems:
